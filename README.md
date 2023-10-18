@@ -1,4 +1,4 @@
-This is the Github repository for data and replication code for my paper, "Who Pays for Reparations?," released by the Manhattan Institute DATE TK. URL TK.
+This is the Github repository for data and replication code for my paper, ["Who Pays for Reparations?,"](https://manhattan.institute/article/who-pays-for-reparations-the-immigration-challenge-in-the-reparations-debate?utm_source=external&utm_medium=github) released by the Manhattan Institute on October 19, 2023.
 
 Code for constructing the death estimates is in the Death Estimates/ folder. 
 
